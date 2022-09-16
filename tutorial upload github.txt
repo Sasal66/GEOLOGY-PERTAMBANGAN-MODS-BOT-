@@ -18,7 +18,7 @@ $ git config --global --add safe.directory/storage/emulated/0/PERTAMBANGAN-MOD-B
 
 $ git add .
 
-$ 
+$ git commit -m "GEOLOGY-PERTAMBANGAN-MODS-BOT"
 
 
 $ git remote add origin link repo.  
@@ -62,4 +62,3 @@ git push -u origin main *//
 
 
 
-git commit -m "PERTAMBANGAN-MOD-BOT"
