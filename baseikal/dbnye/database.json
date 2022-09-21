@@ -50,7 +50,7 @@
       "templateMsg": false,
       "available": false,
       "composing": false,
-      "recording": false
+      "recording": true
     }
   },
   "others": {
