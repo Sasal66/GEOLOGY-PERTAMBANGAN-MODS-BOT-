@@ -39,3 +39,31 @@
 </p>
 <p align="center"><a href="https://github.com/HaikaltestBot123"><img src="https://github-readme-stats.vercel.app/api?username=HaikaltestBot123&show_icons=true&theme=radical"></a></p>
 </div>
+
+## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+
+  <a href="https://wa.me/62831433937633">
+
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.tiktok.com/@knchann">
+
+    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/ppiowy_/">
+
+    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+
+  </a> &nbsp;&nbsp;
+
+  <a href="mailto:kannachann@gmail.com">
+
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+
+  </a> &nbsp;&nbsp;
+
+---------
