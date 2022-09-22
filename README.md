@@ -1,9 +1,17 @@
   <body>
 <h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
 <br>
+  
   </p>
-  <img src="https://i.imgur.com/jx17oHT.gif">
-  </p>
+
+<div>
+
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+
+<div>
+
+</p>
+  
 <p align="center">
  <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
