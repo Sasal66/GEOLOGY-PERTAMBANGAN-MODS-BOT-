@@ -47,6 +47,20 @@
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62831433937633) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT) 
 ---------
+</p>
+
+<h2 align="center">🔥 SPOTIFY 🔥</h2>
+
+<p align="center">
+
+  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+
+</p>
+
+<p align="center"><a href="https://github.com/HaikaltestBot123"><img src="https://github-readme-stats.vercel.app/api?username=HaikaltestBot123&show_icons=true&theme=radical"></a></p>
+
+</div>
+
 
 #### KELEBIHAN 📍
 | Kelebihan | Check |
